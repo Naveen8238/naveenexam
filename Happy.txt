@@ -1,0 +1,19 @@
+1) I have six months of hands-on experience, but I've been familiar with web development for the past year. I completed a project using React.js where I built an impressive, step-by-step responsive real estate website. During this project, I delved into various technologies including React hooks, modern CSS, Framer Motion, and more. To enhance the site's functionality and user experience, I incorporated the Swiper.js library for the slider component.
+
+2)I have over a year of experience in web development, during which I successfully completed three minor and two major projects utilizing HTML, CSS, modern JavaScript, and Bootstrap.
+
+3) I possess a fundamental understanding of Git and have successfully pushed two projects. I also have a theoretical grasp of Webpack and its operation within React. Additionally, I have a basic familiarity with npm.
+
+4)I'm well-versed in discussing prevalent optimization techniques for web applications, especially those constructed with React.js. This includes practices like Lazy Loading and Browser Optimization, along with harnessing React functionalities like useMemo, useCallback, and React.memo. Additionally, I can provide guidance on state management solutions such as Redux and the Context API.
+
+5) I have faced  optimization performance issuse in React.js, I've applied methods like utilizing the useMemo and useCallback hooks for effective memoization.I've optimized component updates by React.memo and avoid re-renderinng of the component.
+
+6)Witing cleancode, efficient and  sustainable Reactjs code on giving to readability, debugging, optimizing performance, code reusability, and making documentation of code by comments.
+
+7)The teamwork between designers and developers from the project's start builds a strong foundation for doable UI/UX designs.
+
+8)Retrieve the API endpoint for backend communication and verify its functionality using Postman. If there are any requirements such as authentication tokens or additional clarification needed, we will establish a connection with the backend from the front-end.
+
+9)Keeping pace with evolving front-end technologies and trends offers several compelling incentives, including optimizing performance, ensuring scalability and adaptability, and benefiting from robust community support.
+ 
+10) I'm gaining hands-on experience, developing valuable skills, opening up job opportunities, learning from industry experts, enhancing my resume, building confidence, and exploring potential career paths.
